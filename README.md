@@ -1,2 +1,4 @@
 # statistics-learning
-my answers on exercises from books. For convenient sharing answers.
+Book in the root, as you can see
+[link to datasets](http://faculty.marshall.usc.edu/gareth-james/ISL/data.html)
+all datasets in folders
