@@ -1,0 +1,35 @@
+1. 
+a) Better. Flexible method will adjust well to data, while Linear model will underfit.
+b) worse. Because model will tend for overfitting due to lack of observations.
+c) Better.
+d) Worse. In comparison, inear model will ignore high irreducible error and will be more stable.
+
+2.
+a) Regression. Inference, because we seek for understanding.
+b) Classification. Inference, we would like to know features of successful products.
+c) Regression. Prediction, we would like to have model with better prediction. Isn't it obvious?
+
+3.
+a. ahaha, I will make a photo of my sketch.
+b. this is an ideal task for online discussion.
+
+4.
+a)
+b) how grades of students changes as they started to learn statistics and ml. Learning measures in hourse. haha
+c) divide user of the site on their use of this site. 
+
+5. flexible approach can find much more complicated patterns in data, while less flexible models is better for interpretation results. For uninitiated in ml people we should create models with good inference.
+
+6. Parametric models assume that data has some parametric distribution. These models easier to interpret. While non-parametric models do not have any assumption and well find unique patterns, which can easily lead to overfitting. But it can drastically lowers MSE anyway.
+
+7.
+ah, I will handle this later.
+a)
+b)
+c)
+d) best will be closer to small value. K=1 it is called overfitting, with K= approximately 10th percentile of K there will be best model.
+
+8.
+I found out that Elite status significally correlates with Private status. P-value=0.037.
+The more Student/faculty, the less an amount of alumni who donate.
+To be continued...
