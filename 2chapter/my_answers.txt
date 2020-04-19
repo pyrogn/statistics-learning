@@ -23,11 +23,12 @@ c) divide user of the site on their use of this site.
 6. Parametric models assume that data has some parametric distribution. These models easier to interpret. While non-parametric models do not have any assumption and well find unique patterns, which can easily lead to overfitting. But it can drastically lowers MSE anyway.
 
 7.
-ah, I will handle this later.
-a)
-b)
-c)
+
+a) 3, 2, sqrt(10) and so on
+b) G.
+c) R. Because now it is 2R and 1G closest points.
 d) best will be closer to small value. K=1 it is called overfitting, with K= approximately 10th percentile of K there will be best model.
+upd. if boundary highly (very) nonlinear, we should take very small value of K, even less than 10th percentile.
 
 8.
 I found out that Elite status significally correlates with Private status. P-value=0.037.
