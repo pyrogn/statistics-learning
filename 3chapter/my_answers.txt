@@ -1,11 +1,24 @@
 1. 
-H0: the predictor doesn't help to improve model. (I may be wrong).
+H0: the predictor doesn't help to improve model. (I may be wrong). My teacher answered: H0 - true beta coefficient is equal to zero. H1: coefficient has random value.
 TV, radio and intercept line have effect in model, while newspaper - hasn't. I don't understand question.
+
 2.
 KNN classifier predict class based on K-nearest neighbors (for example, 2 > 1, we choose 1 class). Meanwhile KNN regressor finds values of k-nearest neighbors and find the average of these values. Carefully enough?
+
 3.
 a) 
 2. after deviding this model on men and women we get Gender(35 - 10GPA). I suppose we can drop 10GPA, because GPA fixed.
 3. Wow. If GPA will be high enough, (GPA > 3.5) men will earn more money on average. It changed somehow I don't understand.
 b) 137.1
 c) overconfindent statement. There is little evidence of a linear interaction effect. But interaction can be x1^2 * sin(x2), for example. Or even nonparametric.
+
+4. a) if there is correlation in irreducible error, cubic regression can catch the pattern and RSS will be quite low. Otherwise, linear regression will have lower RSS.
+b) obviously, linear regression will generalize better, test RSS will be lower for linear model.
+c) in this case RSS for cubic regression will be lower anyway, I suppose.
+d) there is not enough information to tell.
+
+5. aaagggghhhhrrr... it's hard.
+
+6. I made a photo.
+
+7. I solved it.
