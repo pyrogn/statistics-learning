@@ -22,3 +22,9 @@ d) there is not enough information to tell.
 6. I made a photo.
 
 7. I solved it.
+
+8. 
+a) Yes
+b) Not so much. -0.15
+c) Negative
+d) residuals are correlated. And some residuals with high values are higher than fitted line
